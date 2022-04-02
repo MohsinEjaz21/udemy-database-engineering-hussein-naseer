@@ -1,0 +1,13 @@
+{
+  "name": "database-engineering-by-hussein-naseer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "permit": "sudo chmod 755 './gitpush.sh'",
+    "pushCode": "./gitpush.sh MohsinEjaz21 udemy-database-engineering-hussein-naseer 'minor update'"
+  },
+  "author": "",
+  "license": "ISC"
+}
